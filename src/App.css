@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .stars {
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .star {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .black {
+    color: black;
+  }
